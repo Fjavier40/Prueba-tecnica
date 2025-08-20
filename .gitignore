@@ -1,0 +1,8 @@
+mi_entorno/
+borrador/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
